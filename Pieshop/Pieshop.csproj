@@ -6,36 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="CodeSnippets\04\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\04\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\05\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\05\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\06\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\06\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\06\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-    <None Include="CodeSnippets\07\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\07\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\07\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-    <None Include="CodeSnippets\08\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\08\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\08\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-    <None Include="CodeSnippets\09\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\09\demos\BethanysPieShopTests\BethanysPieShopTests.csproj" />
-    <None Include="CodeSnippets\09\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\09\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-    <None Include="CodeSnippets\10\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\10\demos\BethanysPieShopTests\BethanysPieShopTests.csproj" />
-    <None Include="CodeSnippets\10\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\10\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-    <None Include="CodeSnippets\11\demos\BethanysPieShop.sln" />
-    <None Include="CodeSnippets\11\demos\BethanysPieShopTests\BethanysPieShopTests.csproj" />
-    <None Include="CodeSnippets\11\demos\BethanysPieShop\BethanysPieShop.csproj" />
-    <None Include="CodeSnippets\11\demos\BethanysPieShop\BethanysPieShop.csproj.user" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="CodeSnippets\Snippets\m12\" />
-  </ItemGroup>
-
 </Project>
